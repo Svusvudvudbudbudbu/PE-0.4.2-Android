@@ -1,0 +1,30 @@
+{
+	"storyName": "I purge the wicked (seizure warning)",
+	"hideFreeplay": false,
+	"weekBackground": "nevada",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"jebusMENU",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Inundation",
+			"icon-jebus",
+			[
+				135,
+				73,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Jebus"
+}
