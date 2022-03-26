@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF idle dance"
+		},
+		{
+			"offsets": [
+				-14,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF NOTE UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": true,
+			"name": "GF idle shaking"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_Player",
+	"position": [
+		50,
+		-10
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		30,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
