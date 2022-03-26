@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ugh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That hurts..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh? This is the stage... But where is BF?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfD",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "welcome..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "*gasp* WHO'S THAT?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfD",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't be afraid... after all..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfD",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have taken everything from me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "W-What are you talking about?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfD",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "With your sexy moves, love and care..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfD",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have pushed me down the void..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfD",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And now, you must pay..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "H-huh? What are you-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfD",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You'll know what's happening really soon."
+		},
+		{
+			"speed": 0.5,
+			"portrait": "gfD",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "S I N G."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}
