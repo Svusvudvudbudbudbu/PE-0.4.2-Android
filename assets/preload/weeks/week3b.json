@@ -1,0 +1,50 @@
+{
+	"storyName": "Darnell",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "darnell",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"darnell-menu",
+		"pico",
+		"nenemenu"
+	],
+	"songs": [
+		[
+			"Darnell",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lit Up",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"2HOT",
+			"darnell",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Darnell",
+	"hiddenUntilUnlocked": false
+}
