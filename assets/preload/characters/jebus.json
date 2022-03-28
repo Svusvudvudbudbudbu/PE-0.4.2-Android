@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				-209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jebus Sing Note up"
+		},
+		{
+			"offsets": [
+				60,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jebus Sing Note down"
+		},
+		{
+			"offsets": [
+				209,
+				-235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jebus Sing Note left"
+		},
+		{
+			"offsets": [
+				-33,
+				-177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jebus Sing Note right"
+		},
+		{
+			"offsets": [
+				-14,
+				-256
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jebus idle dance"
+		},
+		{
+			"offsets": [
+				64,
+				-229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Jebus HEY!"
+		},
+		{
+			"offsets": [
+				3,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cough",
+			"indices": [],
+			"name": "Jebus COUGH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jebus",
+	"position": [
+		-270,
+		-65
+	],
+	"healthicon": "jebus",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		85,
+		142
+	],
+	"camera_position": [
+		-60,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
