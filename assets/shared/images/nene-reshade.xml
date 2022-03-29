@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nene-reshade.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beepboop instance 10000" x="25" y="25" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10001" x="25" y="25" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10002" x="778" y="25" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10003" x="778" y="25" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10004" x="1531" y="25" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10005" x="2284" y="25" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10006" x="3037" y="25" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10007" x="25" y="645" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10008" x="778" y="645" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10009" x="1531" y="645" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10010" x="2284" y="645" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10011" x="3037" y="645" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10012" x="25" y="1265" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10013" x="778" y="1265" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10014" x="1531" y="1265" width="748" height="615"/>
+	<SubTexture name="beepboop instance 10015" x="1531" y="1265" width="748" height="615"/>
+</TextureAtlas>
